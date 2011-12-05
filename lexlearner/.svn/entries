@@ -1,0 +1,53 @@
+8
+
+dir
+247
+svn+ssh://aanavas@plan.is.cs.cmu.edu/spice/spice/lexlearner
+svn+ssh://aanavas@plan.is.cs.cmu.edu/spice
+
+
+
+2008-11-04T04:56:06.048525Z
+238
+jkominek
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d7fc4319-1031-0410-8cbe-bbe1e7912d9a
+
+run
+dir
+
+not-src
+dir
+
+dicts
+dir
+
+src
+dir
+
+Makefile
+file
+
+
+
+
+2011-11-17T22:18:29.000000Z
+e4daa130939b1e6edfacf0eb3f83ca0d
+2007-05-22T16:35:45.574418Z
+3
+matth
+has-props
+

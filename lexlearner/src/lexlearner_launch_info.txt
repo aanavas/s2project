@@ -1,0 +1,6 @@
+LTS_RuleLearnerSrvr.py
+LexLearner ID: 8000 | 
+ Listening on: 8000
+ Time to load: 0.01 s
+ Current time: Sun Dec  4 22:42:39 2011
+Terminating LexLearner on: Sun Dec  4 22:44:39 2011
